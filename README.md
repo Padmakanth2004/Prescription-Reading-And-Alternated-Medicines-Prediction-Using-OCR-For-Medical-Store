@@ -1,0 +1,1 @@
+# Prescription-Reading-And-Alternated-Medicines-Prediction-Using-OCR-For-Medical-Store
